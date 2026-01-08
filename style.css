@@ -1,0 +1,13 @@
+/* Small custom tweaks on top of Bootstrap */
+
+body {
+    scroll-behavior: smooth;
+}
+
+footer {
+    font-size: 0.9rem;
+}
+
+h1, h2 {
+    font-weight: 600;
+}
